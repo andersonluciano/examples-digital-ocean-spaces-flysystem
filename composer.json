@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dasprid/container-interop-doctrine": "^1.0",
+        "league/flysystem-aws-s3-v3": "^1.0"
+    }
+}
